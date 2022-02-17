@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Projetos no GitHub\Projetos da Faculdade\Projeto 02 C#\Exer02\Exer02\bin\Debug\net6.0\Exer02.exe
+C:\Users\User\Desktop\Projetos no GitHub\Projetos da Faculdade\Projeto 02 C#\Exer02\Exer02\bin\Debug\net6.0\Exer02.deps.json
+C:\Users\User\Desktop\Projetos no GitHub\Projetos da Faculdade\Projeto 02 C#\Exer02\Exer02\bin\Debug\net6.0\Exer02.runtimeconfig.json
+C:\Users\User\Desktop\Projetos no GitHub\Projetos da Faculdade\Projeto 02 C#\Exer02\Exer02\bin\Debug\net6.0\Exer02.dll
+C:\Users\User\Desktop\Projetos no GitHub\Projetos da Faculdade\Projeto 02 C#\Exer02\Exer02\bin\Debug\net6.0\ref\Exer02.dll
+C:\Users\User\Desktop\Projetos no GitHub\Projetos da Faculdade\Projeto 02 C#\Exer02\Exer02\bin\Debug\net6.0\Exer02.pdb
+C:\Users\User\Desktop\Projetos no GitHub\Projetos da Faculdade\Projeto 02 C#\Exer02\Exer02\obj\Debug\net6.0\Exer02.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Projetos no GitHub\Projetos da Faculdade\Projeto 02 C#\Exer02\Exer02\obj\Debug\net6.0\Exer02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Projetos no GitHub\Projetos da Faculdade\Projeto 02 C#\Exer02\Exer02\obj\Debug\net6.0\Exer02.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Projetos no GitHub\Projetos da Faculdade\Projeto 02 C#\Exer02\Exer02\obj\Debug\net6.0\Exer02.AssemblyInfo.cs
+C:\Users\User\Desktop\Projetos no GitHub\Projetos da Faculdade\Projeto 02 C#\Exer02\Exer02\obj\Debug\net6.0\Exer02.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Projetos no GitHub\Projetos da Faculdade\Projeto 02 C#\Exer02\Exer02\obj\Debug\net6.0\Exer02.dll
+C:\Users\User\Desktop\Projetos no GitHub\Projetos da Faculdade\Projeto 02 C#\Exer02\Exer02\obj\Debug\net6.0\ref\Exer02.dll
+C:\Users\User\Desktop\Projetos no GitHub\Projetos da Faculdade\Projeto 02 C#\Exer02\Exer02\obj\Debug\net6.0\Exer02.pdb
+C:\Users\User\Desktop\Projetos no GitHub\Projetos da Faculdade\Projeto 02 C#\Exer02\Exer02\obj\Debug\net6.0\Exer02.genruntimeconfig.cache

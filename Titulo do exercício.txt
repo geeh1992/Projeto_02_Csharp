@@ -1,0 +1,8 @@
+Crie uma lista encadeada dinâmica para armazenar números inteiros que
+atenda às seguintes características:
+a) Tenha um método para adicionar números inteiros. Neste método, se o número for par, o
+mesmo deve ser adicionado no início da lista. Já números ímpares devem ser adicionados no final
+da lista.
+b) Tenha duas operações para remover um número da lista. A primeira operação deve remover o
+número no início da lista e a segunda operação deve remover o número no final da lista.
+c) Crie um método que permita percorrer os elementos da lista.
